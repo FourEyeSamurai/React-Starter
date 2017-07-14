@@ -1,2 +1,11 @@
-# React-Starter
-A react starter app with everything you need to make a MERN app. 
+# React Starter
+
+
+## Start up
+
+## Client
+npm run start:client
+
+## Server 
+npm run start:server
+mongod
